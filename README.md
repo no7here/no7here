@@ -1,6 +1,6 @@
 ### Hey!
 
-My name is Deon, but I'm known as not here online. (not-here was taken on GitHub)
+My name is Deon, but I'm known as not here online. (not-here was taken on GitHub) I currently reside in the UK 🇬🇧
 
 - I'm currently learning: <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white" />
 
