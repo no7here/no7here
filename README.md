@@ -6,7 +6,9 @@ My name is Deon, but I'm known as not here online (not-here was taken on GitHub)
 
 - I'm currently working on: Discord & Guilded Bot
 
-- Come find me: [Discord](https://discord.com/users/956335508311654400), [Guilded](https://guilded.gg/not-here7720), [Steam](https://steamcommunity.com/id/not-here7720), [Spotify](https://open.spotify.com/user/zp8o4bf6stiyic8w713dtxqe2?si=32cd383d9f6a49cf), [Reddit](https://reddit.com/u/_not-here) & [Revolt](https://revolt.chat) (@not_here)
+- Come check me out on my [Website](https://not-here.dev)!
+
+- Come find me/contact me: [Discord](https://discord.com/users/956335508311654400), [Guilded](https://guilded.gg/not-here7720), [Steam](https://steamcommunity.com/id/not-here7720), [Spotify](https://open.spotify.com/user/zp8o4bf6stiyic8w713dtxqe2?si=32cd383d9f6a49cf), [Reddit](https://reddit.com/u/_not-here), [Revolt](https://revolt.chat) (@not_here) & [Email](mailto:contact@not-here.dev)
 
 <!--
 **no-there/no-there** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
