@@ -1,14 +1,12 @@
 ### Hey!
 
-My name is Deon, but I'm known as not here online (not-here was taken on GitHub). I currently reside in the UK 🇬🇧
+I'm not here (not-here was taken on GitHub)! I'm a developer I currently reside in the UK 🇬🇧
 
-- I'm currently learning: <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-4B8BBE?style=flat-square&logo=python&logoColor=white" />
+- I'm currently working on: Rayz (bot & website) & Spotify Transfer
 
-- I'm currently working on: Discord & Guilded Bot
+- Come check me out on my [Website](https://not-here.dev)! (not currently hosted)
 
-- Come check me out on my [Website](https://not-here.dev)!
-
-- Come find me/contact me: [Discord](https://discord.com/users/956335508311654400), [Guilded](https://guilded.gg/not-here7720), [Steam](https://steamcommunity.com/id/not-here7720), [Spotify](https://open.spotify.com/user/zp8o4bf6stiyic8w713dtxqe2?si=32cd383d9f6a49cf), [Reddit](https://reddit.com/u/_not-here), [Revolt](https://revolt.chat) (@not_here) & [Email](mailto:contact@not-here.dev)
+- Come find me/contact me: [Discord](https://discord.com/users/956335508311654400), [Guilded](https://guilded.gg/not-here7720), [Steam](https://steamcommunity.com/id/not-here7720), [Spotify](https://open.spotify.com/user/zp8o4bf6stiyic8w713dtxqe2?si=32cd383d9f6a49cf), [Reddit](https://reddit.com/u/_not-here), [Revolt](https://revolt.chat) (@not_here) or [e-mail](mailto:contact@not-here.dev)
 
 <!--
 **no-there/no-there** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
