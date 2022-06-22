@@ -1,6 +1,6 @@
 ### Hey!
 
-[![wakatime](https://wakatime.com/badge/user/abb67070-606f-4700-a1a0-9cbb189adaf3.svg)](https://wakatime.com/@abb67070-606f-4700-a1a0-9cbb189adaf3)
+![wakatime](https://wakatime.com/badge/user/abb67070-606f-4700-a1a0-9cbb189adaf3.svg)
 
 I'm not here (not-here was taken on GitHub)! I'm a developer from the UK.
 
