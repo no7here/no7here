@@ -8,7 +8,7 @@ I'm not here (not-here was taken on GitHub)! I'm a developer from the UK.
 
 - Come check me out on my [Website](https://not-here.dev)! (not currently hosted)
 
-- Come find me/contact me: [Discord](https://discord.com/users/956335508311654400), [Guilded](https://guilded.gg/not-here7720), [Steam](https://steamcommunity.com/id/not-here7720), [Spotify](https://open.spotify.com/user/zp8o4bf6stiyic8w713dtxqe2?si=32cd383d9f6a49cf), [Reddit](https://reddit.com/u/_not-here), [Revolt](https://revolt.chat) (@not_here) or [e-mail](mailto:contact@not-here.dev)
+- Come find me/contact me: [Discord](https://discord.com/users/956335508311654400), [Guilded](https://guilded.gg/not-here7720), [Steam](https://steamcommunity.com/id/not-here7720), [Spotify](https://open.spotify.com/user/zp8o4bf6stiyic8w713dtxqe2?si=32cd383d9f6a49cf), [Reddit](https://reddit.com/u/_not-here), [Revolt](https://revolt.chat) (@not_here)
 
 ----------------------------------------------------------------------------------------------------------------
 
