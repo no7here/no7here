@@ -4,8 +4,6 @@
 
 I'm not here (not-here was taken on GitHub)! I'm a developer from the UK.
 
-- I'm currently working on: Rayz (bot & website) & Spotify Transfer
-
 - Come check me out on my [website](https://not-here.dev)! (not currently hosted)
 
 - Contact me on:
