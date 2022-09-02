@@ -4,7 +4,7 @@
 
 I'm not here (not-here was taken on GitHub)! I'm a developer from the UK.
 
-- Come check me out on my [website](https://not-here.dev)! 
+- Come check out my [website](https://not-here.dev)! 
 
 - Contact me on:
 
