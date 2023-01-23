@@ -7,4 +7,4 @@ I'm not here, a developer from the UK. Visit my ![website](https://not-here.dev)
 
 ----
 
-![Stats](https://not-here-profile-stats.vercel.app/api?username=no-there&include_all_commits=true&show_icons=true&hide=issues,stars&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=no-there&include_all_commits=true&show_icons=true&hide=issues,stars&theme=transparent)
